@@ -1,0 +1,8 @@
+main.dart
+void main() {
+String greeting = "Hello";
+ø1234
+print(
+greeting. index0f( "e" )
+);
+}
